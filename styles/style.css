@@ -654,3 +654,11 @@ background-color: #4CAF50;
 #div9 {height:80px; background-color:green;}
 
 .endiv h6 { color: white;}
+/* manage page */
+.search-form{
+	padding: 50px;
+	font-size: 1em;
+	line-height: 2em;
+	background-color: #414141;
+	color: #00afff;
+}
