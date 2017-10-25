@@ -56,6 +56,8 @@
           echo '<pre>';print_r($validateData);
           echo '<a href = "apply.php">Back</a>';
         }
+      } else {
+        echo "Please fill all the mandatory fields.";
       }
     }
   } else {
